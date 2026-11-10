@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akshay K Reghu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=560&lines=Frontend+Developer;Angular+%7C+React+%7C+TypeScript;I+build+animated%2C+modern+UIs" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+%7C+React+%7C+TypeScript;PHP+%7C+Spring+Boot+%7C+Java;I+build+animated%2C+modern+UIs" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -15,21 +15,35 @@
 
 ## 🚀 About me
 - 💻 Frontend developer who enjoys building clean, responsive and animated web interfaces
-- ⚛️ Working with **Angular**, **React** and **TypeScript**
+- ⚛️ Frontend: **Angular**, **React** and **TypeScript**
+- 🖥️ Backend: **PHP** and **Spring Boot (Java)**
 - ✨ Love bringing websites to life with motion and modern design
 - 📍 Kerala, India
 - 📫 Reach me at [akshaykreghu95@gmail.com](mailto:akshaykreghu95@gmail.com)
 
 ## 🛠️ Tech stack
+
+**Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌟 Featured projects
 | Project | Description | Tech | Live |
